@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>JasonDG</title>
+    <link>https://jasondg.github.io/</link>
+    <description>Recent content on JasonDG</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Sat, 26 Mar 2022 20:56:50 +0800</lastBuildDate><atom:link href="https://jasondg.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>0</title>
+      <link>https://jasondg.github.io/posts/0/</link>
+      <pubDate>Sat, 26 Mar 2022 20:56:50 +0800</pubDate>
+      
+      <guid>https://jasondg.github.io/posts/0/</guid>
+      <description>&lt;h1 id=&#34;hello-world&#34;&gt;Hello world&lt;/h1&gt;</description>
+    </item>
+    
+    
+    
+  </channel>
+</rss>
