@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Posts on JasonDG</title>
-    <link>https://jasondg.github.io/posts/</link>
-    <description>Recent content in Posts on JasonDG</description>
+    <title>Array on JasonDG</title>
+    <link>https://jasondg.github.io/tags/array/</link>
+    <description>Recent content in Array on JasonDG</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Tue, 29 Mar 2022 21:35:39 +0800</lastBuildDate><atom:link href="https://jasondg.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 29 Mar 2022 21:35:39 +0800</lastBuildDate><atom:link href="https://jasondg.github.io/tags/array/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Firefox 中 Array.sort() 能够使用 boolean 值进行判断</title>
       <link>https://jasondg.github.io/posts/firefox.sort.by.boolean/</link>
@@ -14,15 +14,6 @@
       
       <guid>https://jasondg.github.io/posts/firefox.sort.by.boolean/</guid>
       <description>前言 一次调试时，发现 Firefox 中可以通过 boolean 值来使用 Array.sort()，而在 Node.js 中仅能使用 number 类型。尽管这个问题没有造成代码错误，但还是会造成一些困</description>
-    </item>
-    
-    <item>
-      <title>0</title>
-      <link>https://jasondg.github.io/posts/0/</link>
-      <pubDate>Sat, 26 Mar 2022 20:56:50 +0800</pubDate>
-      
-      <guid>https://jasondg.github.io/posts/0/</guid>
-      <description>&lt;h1 id=&#34;hello-world&#34;&gt;Hello world&lt;/h1&gt;</description>
     </item>
     
   </channel>
