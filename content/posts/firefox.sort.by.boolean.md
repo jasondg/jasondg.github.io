@@ -3,7 +3,7 @@ title: "Firefox 中 Array.sort() 能够使用 boolean 值进行判断"
 date: 2022-03-29T21:35:39+08:00
 categories: ["debug"]
 tags: ["Array", "sort", "Firefox"]
-draft: true
+draft: false
 comments: ["aaa"]
 ---
 
