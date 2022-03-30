@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>error on JasonDG</title>
+    <link>https://jasondg.github.io/categories/error/</link>
+    <description>Recent content in error on JasonDG</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Wed, 30 Mar 2022 19:59:15 +0800</lastBuildDate><atom:link href="https://jasondg.github.io/categories/error/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>端口映射后容器内 WebSocket 产生 502 Bad Gateway 错误</title>
+      <link>https://jasondg.github.io/posts/container.websocket.502/</link>
+      <pubDate>Wed, 30 Mar 2022 19:59:15 +0800</pubDate>
+      
+      <guid>https://jasondg.github.io/posts/container.websocket.502/</guid>
+      <description>前言 前段时间试着把一些老服务升级了一下，有一些也移进了容器里，用 Podman 跑 rootless container。因为外层的 Nginx 没有动，本以为能快速迁移，但启动 container 后服</description>
+    </item>
+    
+  </channel>
+</rss>
