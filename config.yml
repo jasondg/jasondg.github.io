@@ -9,6 +9,7 @@ hasCJKLanguage: true
 enableRobotsTXT: true
 enableInlineShortcodes: true
 enableEmoji: true
+enableGitInfo: true
 
 taxonomies:
   category: categories
