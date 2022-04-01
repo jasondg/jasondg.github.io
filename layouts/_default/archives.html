@@ -7,16 +7,22 @@
   {{- end }}
 </header>
 
-{{- $monthFormat:="January"}} {{- if eq .Site.Language.Lang "zh"}}{{-
-$monthFormat = "1月"}} {{- end }} {{- $pages := where site.RegularPages "Type"
-"in" site.Params.mainSections }} {{- if .Site.Params.ShowAllPagesInArchive }}
-{{- $pages = site.RegularPages }} {{- end }} {{- range $pages.GroupByPublishDate
-"2006" }} {{- if ne .Key "0001" }}
+{{- $monthFormat:="January"}}
+{{- if eq .Site.Language.Lang "zh"}}
+{{- $monthFormat = "1月"}}
+{{- end }}
+
+{{- $pages := where site.RegularPages "Type" "in" site.Params.mainSections }}
+
+{{- if .Site.Params.ShowAllPagesInArchive }}
+{{- $pages = site.RegularPages }}
+{{- end }}
+
+{{- range $pages.GroupByPublishDate "2006" }}
+{{- if ne .Key "0001" }}
 <div class="archive-year">
   <h2 class="archive-year-header">
-    {{- replace .Key "0001" "" }}<sup class="archive-count"
-      >&nbsp;&nbsp;{{ len .Pages }}</sup
-    >
+    {{- replace .Key "0001" "" }}<sup class="archive-count">&nbsp;&nbsp;{{ len .Pages }}</sup>
   </h2>
   {{- range .Pages.GroupByDate $monthFormat }}
   <div class="archive-month">
@@ -24,12 +30,14 @@ $monthFormat = "1月"}} {{- end }} {{- $pages := where site.RegularPages "Type"
       {{- .Key }}<sup class="archive-count">&nbsp;&nbsp;{{ len .Pages }}</sup>
     </h3>
     <div class="archive-posts">
-      {{- range .Pages }} {{- if eq .Kind "page" }}
+      {{- range .Pages }}
+      {{- if eq .Kind "page" }}
       <div class="archive-entry">
         <h3 class="archive-entry-title">
-          {{- .Title | markdownify }} {{- if .Draft }}<sup
-            ><span class="entry-isdraft">&nbsp;&nbsp;[draft]</span></sup
-          >{{- end }}
+          {{- .Title | markdownify }}
+          {{- if .Draft }}
+          <sup><span class="entry-isdraft">&nbsp;&nbsp;[draft]</span></sup>
+          {{- end }}
         </h3>
         <div class="archive-meta">{{- partial "post_meta.html" . -}}</div>
         <a
@@ -38,9 +46,13 @@ $monthFormat = "1月"}} {{- end }} {{- $pages := where site.RegularPages "Type"
           href="{{ .Permalink }}"
         ></a>
       </div>
-      {{- end }} {{- end }}
+      {{- end }}
+      {{- end }}
     </div>
   </div>
   {{- end }}
 </div>
-{{- end }} {{- end }} {{- end }}{{/* end main */}}
+{{- end }}
+{{- end }}
+
+{{- end }}{{/* end main */}}
