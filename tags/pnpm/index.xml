@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>pnpm on JasonDG</title>
+    <link>https://jasondg.github.io/tags/pnpm/</link>
+    <description>Recent content in pnpm on JasonDG</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Sun, 03 Apr 2022 21:02:50 +0800</lastBuildDate><atom:link href="https://jasondg.github.io/tags/pnpm/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>通过 corepack 使用 pnpm 与 yarn 作为包管理器</title>
+      <link>https://jasondg.github.io/posts/try.pnpm.and.yarn/</link>
+      <pubDate>Sun, 03 Apr 2022 21:02:50 +0800</pubDate>
+      
+      <guid>https://jasondg.github.io/posts/try.pnpm.and.yarn/</guid>
+      <description>Node.js 16 中加入了 corepack 工具，能够直接启用 pnpm 与 yarn 作为包管理器，而不需要通过 npm 进行额外的安装。 尝试了在日常开发中使用 pnpm 与 yarn 替代 npm,记录了一些体验上的</description>
+    </item>
+    
+  </channel>
+</rss>

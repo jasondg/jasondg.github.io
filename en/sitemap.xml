@@ -2,6 +2,123 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://jasondg.github.io/en/tags/array/</loc>
+    <lastmod>2022-04-03T21:01:30+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://jasondg.github.io/tags/array/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://jasondg.github.io/en/tags/array/"
+                />
+  </url><url>
+    <loc>https://jasondg.github.io/en/posts/firefox.sort.by.boolean/</loc>
+    <lastmod>2022-04-03T21:01:30+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://jasondg.github.io/posts/firefox.sort.by.boolean/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://jasondg.github.io/en/posts/firefox.sort.by.boolean/"
+                />
+  </url><url>
+    <loc>https://jasondg.github.io/en/categories/</loc>
+    <lastmod>2022-04-03T21:01:30+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://jasondg.github.io/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://jasondg.github.io/en/categories/"
+                />
+  </url><url>
+    <loc>https://jasondg.github.io/en/categories/debug/</loc>
+    <lastmod>2022-04-03T21:01:30+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://jasondg.github.io/categories/debug/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://jasondg.github.io/en/categories/debug/"
+                />
+  </url><url>
+    <loc>https://jasondg.github.io/en/tags/firefox/</loc>
+    <lastmod>2022-04-03T21:01:30+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://jasondg.github.io/tags/firefox/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://jasondg.github.io/en/tags/firefox/"
+                />
+  </url><url>
+    <loc>https://jasondg.github.io/en/</loc>
+    <lastmod>2022-04-03T21:01:30+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://jasondg.github.io/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://jasondg.github.io/en/"
+                />
+  </url><url>
+    <loc>https://jasondg.github.io/en/posts/</loc>
+    <lastmod>2022-04-03T21:01:30+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://jasondg.github.io/posts/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://jasondg.github.io/en/posts/"
+                />
+  </url><url>
+    <loc>https://jasondg.github.io/en/tags/sort/</loc>
+    <lastmod>2022-04-03T21:01:30+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://jasondg.github.io/tags/sort/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://jasondg.github.io/en/tags/sort/"
+                />
+  </url><url>
+    <loc>https://jasondg.github.io/en/tags/</loc>
+    <lastmod>2022-04-03T21:01:30+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://jasondg.github.io/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://jasondg.github.io/en/tags/"
+                />
+  </url><url>
     <loc>https://jasondg.github.io/en/archives/</loc>
     <lastmod>2022-03-26T22:20:13+08:00</lastmod>
     <xhtml:link
@@ -15,30 +132,6 @@
                 href="https://jasondg.github.io/en/archives/"
                 />
   </url><url>
-    <loc>https://jasondg.github.io/en/categories/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://jasondg.github.io/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://jasondg.github.io/en/categories/"
-                />
-  </url><url>
-    <loc>https://jasondg.github.io/en/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://jasondg.github.io/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://jasondg.github.io/en/"
-                />
-  </url><url>
     <loc>https://jasondg.github.io/en/search/</loc>
     <lastmod>2022-03-26T22:20:13+08:00</lastmod>
     <xhtml:link
@@ -50,18 +143,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://jasondg.github.io/en/search/"
-                />
-  </url><url>
-    <loc>https://jasondg.github.io/en/tags/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://jasondg.github.io/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://jasondg.github.io/en/tags/"
                 />
   </url>
 </urlset>

@@ -6,7 +6,16 @@
     <description>Recent content in Posts on JasonDG</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Wed, 30 Mar 2022 19:59:15 +0800</lastBuildDate><atom:link href="https://jasondg.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 03 Apr 2022 21:02:50 +0800</lastBuildDate><atom:link href="https://jasondg.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>通过 corepack 使用 pnpm 与 yarn 作为包管理器</title>
+      <link>https://jasondg.github.io/posts/try.pnpm.and.yarn/</link>
+      <pubDate>Sun, 03 Apr 2022 21:02:50 +0800</pubDate>
+      
+      <guid>https://jasondg.github.io/posts/try.pnpm.and.yarn/</guid>
+      <description>Node.js 16 中加入了 corepack 工具，能够直接启用 pnpm 与 yarn 作为包管理器，而不需要通过 npm 进行额外的安装。 尝试了在日常开发中使用 pnpm 与 yarn 替代 npm,记录了一些体验上的</description>
+    </item>
+    
     <item>
       <title>端口映射后容器内 WebSocket 产生 502 Bad Gateway 错误</title>
       <link>https://jasondg.github.io/posts/container.websocket.502/</link>

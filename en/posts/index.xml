@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Posts on JasonDG</title>
+    <link>https://jasondg.github.io/en/posts/</link>
+    <description>Recent content in Posts on JasonDG</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Sun, 03 Apr 2022 20:23:28 +0800</lastBuildDate><atom:link href="https://jasondg.github.io/en/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Array.sort() in Firefox can use boolean values for judgment</title>
+      <link>https://jasondg.github.io/en/posts/firefox.sort.by.boolean/</link>
+      <pubDate>Sun, 03 Apr 2022 20:23:28 +0800</pubDate>
+      
+      <guid>https://jasondg.github.io/en/posts/firefox.sort.by.boolean/</guid>
+      <description>Once I was debugging, I found that in Firefox Array.sort() can take boolean values in addition to number values. However, in Node.js Array.sort() only supports number values. Although it didn&amp;rsquo;t cause bugs, I&amp;rsquo;m curious about the difference.
+Difference between JS engines Here are some tests:
+ Firefox  const arr = [{num:1}, {num:3}, {num:2}] const numSorted = arr.sort((a, b) =&amp;gt; a.num - b.num) console.log(numSorted) &amp;gt; Array [Object { num: 1 }, Object { num: 2 }, Object { num: 3 }] const arr = [{num:1}, {num:3}, {num:2}] const boolSorted = arr.</description>
+    </item>
+    
+  </channel>
+</rss>

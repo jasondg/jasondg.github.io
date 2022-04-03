@@ -5,6 +5,16 @@
     <link>https://jasondg.github.io/en/categories/</link>
     <description>Recent content in Categories on JasonDG</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>zh-cn</language><atom:link href="https://jasondg.github.io/en/categories/index.xml" rel="self" type="application/rss+xml" />
+    <language>zh-cn</language>
+    <lastBuildDate>Sun, 03 Apr 2022 20:23:28 +0800</lastBuildDate><atom:link href="https://jasondg.github.io/en/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>debug</title>
+      <link>https://jasondg.github.io/en/categories/debug/</link>
+      <pubDate>Sun, 03 Apr 2022 20:23:28 +0800</pubDate>
+      
+      <guid>https://jasondg.github.io/en/categories/debug/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
