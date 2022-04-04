@@ -1,3 +1,3 @@
-# jasondg.github.io
+# [JasonDG's blog](https://jasondg.github.io)
 
 A simple blog.
