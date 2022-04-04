@@ -51,6 +51,24 @@ pnpm add react --filter @project/someWorkspace
 pnpm add react -r
 ```
 
+如果需要依赖其他 workspace，可以执行
+
+```
+pnpm add @project/someWorkspace --filter @project/web
+```
+
+pnpm 会自动处理为 workspace 依赖，例如：
+
+```
+{
+    "dependencies": {
+        "@project/someWorkspace": "workspace:^1.0.0"
+    }
+}
+```
+
+并且在发布时会替换为正确的依赖项。
+
 同理，`package.json` 中的 scripts 也是类似的配置：
 
 ```
