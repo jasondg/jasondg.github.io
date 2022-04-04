@@ -6,7 +6,16 @@
     <description>Recent content in Posts on JasonDG</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Sun, 03 Apr 2022 21:02:50 +0800</lastBuildDate><atom:link href="https://jasondg.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 04 Apr 2022 15:01:39 +0800</lastBuildDate><atom:link href="https://jasondg.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>使用 pnpm 以 Monorepo 方式建立项目</title>
+      <link>https://jasondg.github.io/posts/create.monorepo.using.pnpm/</link>
+      <pubDate>Mon, 04 Apr 2022 15:01:39 +0800</pubDate>
+      
+      <guid>https://jasondg.github.io/posts/create.monorepo.using.pnpm/</guid>
+      <description>为什么需要 Monorepo 在开发中，功能模块间的耦合会导致项目难以维护，因此需要分包来进行解耦合。 但是单纯地进行分包，就需要单独发布，单独安装，会增加一些</description>
+    </item>
+    
     <item>
       <title>通过 corepack 使用 pnpm 与 yarn 作为包管理器</title>
       <link>https://jasondg.github.io/posts/try.pnpm.and.yarn/</link>

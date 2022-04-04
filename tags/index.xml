@@ -7,20 +7,38 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language><atom:link href="https://jasondg.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>nodejs</title>
-      <link>https://jasondg.github.io/tags/nodejs/</link>
-      <pubDate>Sun, 03 Apr 2022 21:02:50 +0800</pubDate>
+      <title>monorepo</title>
+      <link>https://jasondg.github.io/tags/monorepo/</link>
+      <pubDate>Mon, 04 Apr 2022 15:01:39 +0800</pubDate>
       
-      <guid>https://jasondg.github.io/tags/nodejs/</guid>
+      <guid>https://jasondg.github.io/tags/monorepo/</guid>
       <description></description>
     </item>
     
     <item>
       <title>pnpm</title>
       <link>https://jasondg.github.io/tags/pnpm/</link>
-      <pubDate>Sun, 03 Apr 2022 21:02:50 +0800</pubDate>
+      <pubDate>Mon, 04 Apr 2022 15:01:39 +0800</pubDate>
       
       <guid>https://jasondg.github.io/tags/pnpm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>workspace</title>
+      <link>https://jasondg.github.io/tags/workspace/</link>
+      <pubDate>Mon, 04 Apr 2022 15:01:39 +0800</pubDate>
+      
+      <guid>https://jasondg.github.io/tags/workspace/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>nodejs</title>
+      <link>https://jasondg.github.io/tags/nodejs/</link>
+      <pubDate>Sun, 03 Apr 2022 21:02:50 +0800</pubDate>
+      
+      <guid>https://jasondg.github.io/tags/nodejs/</guid>
       <description></description>
     </item>
     
