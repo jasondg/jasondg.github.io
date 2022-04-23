@@ -2,92 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://jasondg.github.io/</loc>
-    <lastmod>2022-04-04T21:32:50+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://jasondg.github.io/en/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://jasondg.github.io/"
-                />
-  </url><url>
-    <loc>https://jasondg.github.io/categories/log/</loc>
-    <lastmod>2022-04-04T21:32:50+08:00</lastmod>
-  </url><url>
-    <loc>https://jasondg.github.io/tags/monorepo/</loc>
-    <lastmod>2022-04-04T21:32:50+08:00</lastmod>
-  </url><url>
-    <loc>https://jasondg.github.io/tags/pnpm/</loc>
-    <lastmod>2022-04-04T21:32:50+08:00</lastmod>
-  </url><url>
-    <loc>https://jasondg.github.io/posts/</loc>
-    <lastmod>2022-04-04T21:32:50+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://jasondg.github.io/en/posts/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://jasondg.github.io/posts/"
-                />
-  </url><url>
-    <loc>https://jasondg.github.io/tags/workspace/</loc>
-    <lastmod>2022-04-04T21:32:50+08:00</lastmod>
-  </url><url>
-    <loc>https://jasondg.github.io/posts/create.monorepo.using.pnpm/</loc>
-    <lastmod>2022-04-04T21:32:50+08:00</lastmod>
-  </url><url>
-    <loc>https://jasondg.github.io/tags/nodejs/</loc>
-    <lastmod>2022-04-04T00:36:49+08:00</lastmod>
-  </url><url>
-    <loc>https://jasondg.github.io/tags/yarn/</loc>
-    <lastmod>2022-04-04T00:36:49+08:00</lastmod>
-  </url><url>
-    <loc>https://jasondg.github.io/posts/try.pnpm.and.yarn/</loc>
-    <lastmod>2022-04-04T00:36:49+08:00</lastmod>
-  </url><url>
-    <loc>https://jasondg.github.io/tags/container/</loc>
-    <lastmod>2022-03-30T22:03:19+08:00</lastmod>
-  </url><url>
-    <loc>https://jasondg.github.io/categories/error/</loc>
-    <lastmod>2022-03-30T22:03:19+08:00</lastmod>
-  </url><url>
-    <loc>https://jasondg.github.io/tags/nginx/</loc>
-    <lastmod>2022-03-30T22:03:19+08:00</lastmod>
-  </url><url>
-    <loc>https://jasondg.github.io/tags/podman/</loc>
-    <lastmod>2022-03-30T22:03:19+08:00</lastmod>
-  </url><url>
-    <loc>https://jasondg.github.io/tags/proxy/</loc>
-    <lastmod>2022-03-30T22:03:19+08:00</lastmod>
-  </url><url>
-    <loc>https://jasondg.github.io/tags/websocket/</loc>
-    <lastmod>2022-03-30T22:03:19+08:00</lastmod>
-  </url><url>
-    <loc>https://jasondg.github.io/posts/container.websocket.502/</loc>
-    <lastmod>2022-03-30T22:03:19+08:00</lastmod>
-  </url><url>
-    <loc>https://jasondg.github.io/tags/array/</loc>
-    <lastmod>2022-04-03T21:01:30+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://jasondg.github.io/en/tags/array/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://jasondg.github.io/tags/array/"
-                />
+    <loc>https://jasondg.github.io/tags/canvas/</loc>
+    <lastmod>2022-04-23T23:13:54+08:00</lastmod>
   </url><url>
     <loc>https://jasondg.github.io/categories/debug/</loc>
-    <lastmod>2022-04-03T21:01:30+08:00</lastmod>
+    <lastmod>2022-04-23T23:13:54+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -99,8 +18,98 @@
                 href="https://jasondg.github.io/categories/debug/"
                 />
   </url><url>
+    <loc>https://jasondg.github.io/</loc>
+    <lastmod>2022-04-23T23:13:54+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://jasondg.github.io/en/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://jasondg.github.io/"
+                />
+  </url><url>
+    <loc>https://jasondg.github.io/tags/keyboard-event/</loc>
+    <lastmod>2022-04-23T23:13:54+08:00</lastmod>
+  </url><url>
+    <loc>https://jasondg.github.io/posts/</loc>
+    <lastmod>2022-04-23T23:13:54+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://jasondg.github.io/en/posts/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://jasondg.github.io/posts/"
+                />
+  </url><url>
+    <loc>https://jasondg.github.io/posts/use.keyboard.event.in.canvas/</loc>
+    <lastmod>2022-04-23T23:13:54+08:00</lastmod>
+  </url><url>
+    <loc>https://jasondg.github.io/categories/log/</loc>
+    <lastmod>2022-04-23T21:42:18+08:00</lastmod>
+  </url><url>
+    <loc>https://jasondg.github.io/tags/monorepo/</loc>
+    <lastmod>2022-04-23T21:42:18+08:00</lastmod>
+  </url><url>
+    <loc>https://jasondg.github.io/tags/pnpm/</loc>
+    <lastmod>2022-04-23T21:42:18+08:00</lastmod>
+  </url><url>
+    <loc>https://jasondg.github.io/tags/workspace/</loc>
+    <lastmod>2022-04-23T21:42:18+08:00</lastmod>
+  </url><url>
+    <loc>https://jasondg.github.io/posts/create.monorepo.using.pnpm/</loc>
+    <lastmod>2022-04-23T21:42:18+08:00</lastmod>
+  </url><url>
+    <loc>https://jasondg.github.io/tags/nodejs/</loc>
+    <lastmod>2022-04-23T21:42:18+08:00</lastmod>
+  </url><url>
+    <loc>https://jasondg.github.io/tags/yarn/</loc>
+    <lastmod>2022-04-23T21:42:18+08:00</lastmod>
+  </url><url>
+    <loc>https://jasondg.github.io/posts/try.pnpm.and.yarn/</loc>
+    <lastmod>2022-04-23T21:42:18+08:00</lastmod>
+  </url><url>
+    <loc>https://jasondg.github.io/tags/container/</loc>
+    <lastmod>2022-04-23T21:42:18+08:00</lastmod>
+  </url><url>
+    <loc>https://jasondg.github.io/categories/error/</loc>
+    <lastmod>2022-04-23T21:42:18+08:00</lastmod>
+  </url><url>
+    <loc>https://jasondg.github.io/tags/nginx/</loc>
+    <lastmod>2022-04-23T21:42:18+08:00</lastmod>
+  </url><url>
+    <loc>https://jasondg.github.io/tags/podman/</loc>
+    <lastmod>2022-04-23T21:42:18+08:00</lastmod>
+  </url><url>
+    <loc>https://jasondg.github.io/tags/proxy/</loc>
+    <lastmod>2022-04-23T21:42:18+08:00</lastmod>
+  </url><url>
+    <loc>https://jasondg.github.io/tags/websocket/</loc>
+    <lastmod>2022-04-23T21:42:18+08:00</lastmod>
+  </url><url>
+    <loc>https://jasondg.github.io/posts/container.websocket.502/</loc>
+    <lastmod>2022-04-23T21:42:18+08:00</lastmod>
+  </url><url>
+    <loc>https://jasondg.github.io/tags/array/</loc>
+    <lastmod>2022-04-23T21:42:18+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://jasondg.github.io/en/tags/array/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://jasondg.github.io/tags/array/"
+                />
+  </url><url>
     <loc>https://jasondg.github.io/tags/firefox/</loc>
-    <lastmod>2022-04-03T21:01:30+08:00</lastmod>
+    <lastmod>2022-04-23T21:42:18+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -113,7 +122,7 @@
                 />
   </url><url>
     <loc>https://jasondg.github.io/posts/firefox.sort.by.boolean/</loc>
-    <lastmod>2022-04-03T21:01:30+08:00</lastmod>
+    <lastmod>2022-04-23T21:42:18+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -126,7 +135,7 @@
                 />
   </url><url>
     <loc>https://jasondg.github.io/tags/sort/</loc>
-    <lastmod>2022-04-03T21:01:30+08:00</lastmod>
+    <lastmod>2022-04-23T21:42:18+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -139,10 +148,23 @@
                 />
   </url><url>
     <loc>https://jasondg.github.io/posts/0/</loc>
-    <lastmod>2022-03-26T22:20:13+08:00</lastmod>
+    <lastmod>2022-04-23T21:42:18+08:00</lastmod>
   </url><url>
     <loc>https://jasondg.github.io/categories/note/</loc>
+    <lastmod>2022-04-23T21:42:18+08:00</lastmod>
+  </url><url>
+    <loc>https://jasondg.github.io/tags/</loc>
     <lastmod>2022-03-26T22:20:13+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://jasondg.github.io/en/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://jasondg.github.io/tags/"
+                />
   </url><url>
     <loc>https://jasondg.github.io/categories/</loc>
     <lastmod>2022-03-26T22:20:13+08:00</lastmod>
@@ -181,19 +203,6 @@
                 rel="alternate"
                 hreflang="zh"
                 href="https://jasondg.github.io/archives/"
-                />
-  </url><url>
-    <loc>https://jasondg.github.io/tags/</loc>
-    <lastmod>2022-03-26T22:20:13+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://jasondg.github.io/en/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://jasondg.github.io/tags/"
                 />
   </url>
 </urlset>
