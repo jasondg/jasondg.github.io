@@ -6,7 +6,16 @@
     <description>Recent content in debug on JasonDG</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Sat, 23 Apr 2022 21:43:59 +0800</lastBuildDate><atom:link href="https://jasondg.github.io/categories/debug/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 29 May 2022 15:32:12 +0800</lastBuildDate><atom:link href="https://jasondg.github.io/categories/debug/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>CSS 问题记录集</title>
+      <link>https://jasondg.github.io/posts/css.some.more/</link>
+      <pubDate>Sun, 29 May 2022 15:32:12 +0800</pubDate>
+      
+      <guid>https://jasondg.github.io/posts/css.some.more/</guid>
+      <description>Layout 相关 flex items 撑开 container 当 flex container 内的 item 使用flex-grow： 1时，如果 item 的大小超出 container 的大小，会使 container 被撑开。例如动态修改 item 的 width/height 时，如果超出 container 的大小且 container</description>
+    </item>
+    
     <item>
       <title>在 canvas 中监听键盘事件</title>
       <link>https://jasondg.github.io/posts/use.keyboard.event.in.canvas/</link>
