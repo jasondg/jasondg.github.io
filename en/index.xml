@@ -15,7 +15,7 @@
       <guid>https://jasondg.github.io/en/posts/firefox.sort.by.boolean/</guid>
       <description>Once I was debugging, I found that in Firefox Array.sort() can take boolean values in addition to number values. However, in Node.js Array.sort() only supports number values. Although it didn&amp;rsquo;t cause bugs, I&amp;rsquo;m curious about the difference.
 Difference between JS engines Here are some tests:
- Firefox  const arr = [{num:1}, {num:3}, {num:2}] const numSorted = arr.sort((a, b) =&amp;gt; a.num - b.num) console.log(numSorted) &amp;gt; Array [Object { num: 1 }, Object { num: 2 }, Object { num: 3 }] const arr = [{num:1}, {num:3}, {num:2}] const boolSorted = arr.</description>
+Firefox const arr = [{num:1}, {num:3}, {num:2}] const numSorted = arr.sort((a, b) =&amp;gt; a.num - b.num) console.log(numSorted) &amp;gt; Array [Object { num: 1 }, Object { num: 2 }, Object { num: 3 }] const arr = [{num:1}, {num:3}, {num:2}] const boolSorted = arr.</description>
     </item>
     
     
