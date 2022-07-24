@@ -10,6 +10,7 @@ enableRobotsTXT: true
 enableInlineShortcodes: true
 enableEmoji: true
 enableGitInfo: true
+googleAnalytics: G-Y30Y5QR4CR
 
 taxonomies:
   category: categories
