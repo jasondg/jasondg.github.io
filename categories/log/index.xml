@@ -6,7 +6,16 @@
     <description>Recent content in log on JasonDG</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Mon, 04 Apr 2022 15:01:39 +0800</lastBuildDate><atom:link href="https://jasondg.github.io/categories/log/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 24 Jul 2022 14:05:53 +0800</lastBuildDate><atom:link href="https://jasondg.github.io/categories/log/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Firefox Developer Edition 设置 desktop 快捷方式</title>
+      <link>https://jasondg.github.io/posts/firefox.developer.edition.desktop.file/</link>
+      <pubDate>Sun, 24 Jul 2022 14:05:53 +0800</pubDate>
+      
+      <guid>https://jasondg.github.io/posts/firefox.developer.edition.desktop.file/</guid>
+      <description>desktop 快捷方式无法识别窗口 通过 bz 文件解压方式安装 Firefox Developer Edition 并手动创建 firefox-developer.desktop 后，desktop 文件无法正常使用，KDE plasma 5.25 下点击打开后窗口不能识别为同一 a</description>
+    </item>
+    
     <item>
       <title>使用 pnpm 以 Monorepo 方式建立项目</title>
       <link>https://jasondg.github.io/posts/create.monorepo.using.pnpm/</link>

@@ -2,6 +2,57 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://jasondg.github.io/tags/desktop/</loc>
+    <lastmod>2022-07-24T14:59:56+08:00</lastmod>
+  </url><url>
+    <loc>https://jasondg.github.io/tags/firefox/</loc>
+    <lastmod>2022-07-24T14:59:56+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://jasondg.github.io/en/tags/firefox/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://jasondg.github.io/tags/firefox/"
+                />
+  </url><url>
+    <loc>https://jasondg.github.io/posts/firefox.developer.edition.desktop.file/</loc>
+    <lastmod>2022-07-24T14:59:56+08:00</lastmod>
+  </url><url>
+    <loc>https://jasondg.github.io/</loc>
+    <lastmod>2022-07-24T14:59:56+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://jasondg.github.io/en/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://jasondg.github.io/"
+                />
+  </url><url>
+    <loc>https://jasondg.github.io/categories/log/</loc>
+    <lastmod>2022-07-24T14:59:56+08:00</lastmod>
+  </url><url>
+    <loc>https://jasondg.github.io/posts/</loc>
+    <lastmod>2022-07-24T14:59:56+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://jasondg.github.io/en/posts/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://jasondg.github.io/posts/"
+                />
+  </url><url>
+    <loc>https://jasondg.github.io/tags/xorg/</loc>
+    <lastmod>2022-07-24T14:59:56+08:00</lastmod>
+  </url><url>
     <loc>https://jasondg.github.io/tags/css/</loc>
     <lastmod>2022-05-29T16:08:38+08:00</lastmod>
   </url><url>
@@ -24,32 +75,6 @@
     <loc>https://jasondg.github.io/tags/flex/</loc>
     <lastmod>2022-05-29T16:08:38+08:00</lastmod>
   </url><url>
-    <loc>https://jasondg.github.io/</loc>
-    <lastmod>2022-05-29T16:08:38+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://jasondg.github.io/en/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://jasondg.github.io/"
-                />
-  </url><url>
-    <loc>https://jasondg.github.io/posts/</loc>
-    <lastmod>2022-05-29T16:08:38+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://jasondg.github.io/en/posts/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://jasondg.github.io/posts/"
-                />
-  </url><url>
     <loc>https://jasondg.github.io/tags/canvas/</loc>
     <lastmod>2022-04-23T23:13:54+08:00</lastmod>
   </url><url>
@@ -58,9 +83,6 @@
   </url><url>
     <loc>https://jasondg.github.io/posts/use.keyboard.event.in.canvas/</loc>
     <lastmod>2022-04-23T23:13:54+08:00</lastmod>
-  </url><url>
-    <loc>https://jasondg.github.io/categories/log/</loc>
-    <lastmod>2022-04-23T21:42:18+08:00</lastmod>
   </url><url>
     <loc>https://jasondg.github.io/tags/monorepo/</loc>
     <lastmod>2022-04-23T21:42:18+08:00</lastmod>
@@ -115,19 +137,6 @@
                 rel="alternate"
                 hreflang="zh"
                 href="https://jasondg.github.io/tags/array/"
-                />
-  </url><url>
-    <loc>https://jasondg.github.io/tags/firefox/</loc>
-    <lastmod>2022-04-23T21:42:18+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://jasondg.github.io/en/tags/firefox/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://jasondg.github.io/tags/firefox/"
                 />
   </url><url>
     <loc>https://jasondg.github.io/posts/firefox.sort.by.boolean/</loc>

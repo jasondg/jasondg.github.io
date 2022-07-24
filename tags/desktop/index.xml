@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>firefox on JasonDG</title>
-    <link>https://jasondg.github.io/tags/firefox/</link>
-    <description>Recent content in firefox on JasonDG</description>
+    <title>desktop on JasonDG</title>
+    <link>https://jasondg.github.io/tags/desktop/</link>
+    <description>Recent content in desktop on JasonDG</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Sun, 24 Jul 2022 14:05:53 +0800</lastBuildDate><atom:link href="https://jasondg.github.io/tags/firefox/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 24 Jul 2022 14:05:53 +0800</lastBuildDate><atom:link href="https://jasondg.github.io/tags/desktop/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Firefox Developer Edition 设置 desktop 快捷方式</title>
       <link>https://jasondg.github.io/posts/firefox.developer.edition.desktop.file/</link>
@@ -14,15 +14,6 @@
       
       <guid>https://jasondg.github.io/posts/firefox.developer.edition.desktop.file/</guid>
       <description>desktop 快捷方式无法识别窗口 通过 bz 文件解压方式安装 Firefox Developer Edition 并手动创建 firefox-developer.desktop 后，desktop 文件无法正常使用，KDE plasma 5.25 下点击打开后窗口不能识别为同一 a</description>
-    </item>
-    
-    <item>
-      <title>Firefox 中 Array.sort() 能够使用 boolean 值进行判断</title>
-      <link>https://jasondg.github.io/posts/firefox.sort.by.boolean/</link>
-      <pubDate>Tue, 29 Mar 2022 21:35:39 +0800</pubDate>
-      
-      <guid>https://jasondg.github.io/posts/firefox.sort.by.boolean/</guid>
-      <description>前言 一次调试时，发现 Firefox 中可以通过 boolean 值来使用 Array.sort()，而在 Node.js 中仅能使用 number 类型。尽管这个问题没有造成代码错误，但还是会造成一些困</description>
     </item>
     
   </channel>
