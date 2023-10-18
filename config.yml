@@ -1,0 +1,104 @@
+baseURL: https://jasondg.github.io/
+languageCode: zh-cn
+title: JasonDG
+theme: PaperMod
+
+defaultContentLanguage: zh
+hasCJKLanguage: true
+
+enableRobotsTXT: true
+enableInlineShortcodes: true
+enableEmoji: true
+enableGitInfo: true
+googleAnalytics: G-Y30Y5QR4CR
+
+taxonomies:
+  category: categories
+  tag: tags
+
+minify:
+  disableXML: true
+  minifyOutput: true
+
+outputs:
+  home: ["HTML", "RSS", "JSON"]
+
+permalinks:
+  /: /:filename/
+
+languages:
+  zh:
+    languageName: 中文
+    languageAltTitle: 中文
+    weight: 1
+    menu:
+      main:
+        - identifier: archives
+          name: 文章
+          url: archives/
+          weight: 5
+        - identifier: tags
+          name: 标签
+          url: tags/
+          weight: 10
+        - identifier: categories
+          name: 分类
+          url: categories/
+          weight: 10
+        - identifier: search
+          name: 搜索
+          url: search/
+          weight: 15
+  en:
+    languageName: English
+    languageAltTitle: English
+    weight: 2
+    menu:
+      main:
+        - identifier: archives
+          name: Archive
+          url: archives/
+          weight: 5
+        - identifier: tags
+          name: Tags
+          url: tags/
+          weight: 10
+        - identifier: categories
+          name: Categories
+          url: categories/
+          weight: 10
+        - identifier: search
+          name: Search
+          url: search/
+          weight: 15
+
+params:
+  env: production
+  # author: JasonDG
+
+  homeInfoParams:
+    Title: Keep IT simple
+  socialIcons:
+    - name: github
+      url: https://github.com/jasondg/
+    - name: gitlab
+      url: https://gitlab.com/jasondg/
+    - name: RSS
+      url: index.xml
+
+  ShowReadingTime: true
+  translationKey: about
+  ShowPostNavLinks: true
+  ShowCodeCopyButtons: true
+  ShowToc: true
+
+  fuseOpts:
+    isCaseSensitive: false
+    shouldSort: true
+    location: 0
+    distance: 1000
+    threshold: 0.4
+    minMatchCharLength: 0
+    keys: ["title", "summary", "content", "permalink"]
+
+  displayFullLangName: true
